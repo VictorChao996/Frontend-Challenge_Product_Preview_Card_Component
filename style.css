@@ -41,7 +41,7 @@ body{
 .productImage{
     flex-basis: 30%;
     max-width: 100%;
-    content: url(/images/image-product-mobile.jpg);
+    content: url(./images/image-product-mobile.jpg);
     object-fit: contain;
 }
 

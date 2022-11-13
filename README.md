@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://victorchao996.github.io/Frontend-Challenge_Product_Preview_Card_Component)
+- Live Site URL: [Product Preview Card Component](https://victorchao996.github.io/Frontend-Challenge_Product_Preview_Card_Component/)
 
 ## My process
 
